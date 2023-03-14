@@ -13,26 +13,3 @@ With the advent of e-commerce and the rise in the efficiency of supply chains, t
 We succeeded in formulating one version the SSAP problem, using simplifying assumptions. Despite the simplifying assumptions, are initial formulation was an NP-Hard problem and hence we decided to break the SSAP problem into two components. The first component solved the problem of allocating different products to different cabinets without looking. The problem of allocating apprpriate shelf pace was delegated to the second component. In this manner, we were able to arrive at a near-optimal solutions using a toy dataset and the Gurobi optimizer. 
 
 While our solution overlooks several industry condtions, including an ever changing inventory and demands, we were able to develop a baseline to iterate and improve upon. The output from the Gurobi solver showed that the proposed solution is convergent, and can be used to maximize for potential/expected revenue. In the future scope of work, we suggest using heuristics to simplify search for the optimal solution while also using real data to eliminate the simplifying assumptions that were made in the first iteration of the solution. 
-
-## Project 2: [Project Name]
-
-### Motivation
-
-[Explain why you undertook this project and what problem or challenge it aimed to address.]
-
-### Outcome
-
-[Describe the outcome of the project, including any successes, failures, or lessons learned. Include any relevant data or metrics.]
-
-## Project 3: [Project Name]
-
-### Motivation
-
-[Explain why you undertook this project and what problem or challenge it aimed to address.]
-
-### Outcome
-
-[Describe the outcome of the project, including any successes, failures, or lessons learned. Include any relevant data or metrics.]
-
-[Add as many additional projects as you'd like, following the same format.]
-
