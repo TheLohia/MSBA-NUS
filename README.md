@@ -1,6 +1,10 @@
-# Project Summary Document
+# Welcome to My Masters Degree Projects Repository!
 
-This document provides a summary of the projects I have completed as a student of the MSc Business Analytics program at NUS during the academic year
+Hello and welcome to my repository! Here, you will find a collection of projects I have completed as part of my Masters degree. These projects represent the culmination of my academic journey, showcasing the skills and knowledge I have acquired throughout my studies.
+
+Each project in this repository demonstrates my ability to tackle complex challenges and deliver innovative solutions. If you have any questions, suggestions, or feedback, please don't hesitate to reach out. I am always open to discussions and eager to collaborate with like-minded individuals who share an interest in the subjects covered by my projects.
+
+Thank you for visiting my repository, and I hope you enjoy exploring my journey so far!
 
 ## [Shelf Space Allocation Problem](https://github.com/TheLohia/MSBA-NUS/blob/main/Operations%20Research%20and%20Analytics/Shelf_Space_Allocation_Problem.pdf)
 
