@@ -6,7 +6,7 @@ Each project in this repository demonstrates my ability to tackle complex challe
 
 Thank you for visiting my repository, and I hope you enjoy exploring my journey so far!
 
-## [Shelf Space Allocation Problem](https://github.com/TheLohia/MSBA-NUS/blob/main/Operations%20Research%20and%20Analytics/Shelf_Space_Allocation_Problem.pdf)
+## [OptiShelf: MAximizing Sales with Smart Shelf Space Allocation](https://github.com/TheLohia/MSBA-NUS/blob/main/Operations%20Research%20and%20Analytics/Shelf_Space_Allocation_Problem.pdf)
 
 ### Motivation
 
